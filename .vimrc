@@ -9,7 +9,7 @@ set tabstop=4
 set expandtab
 set wildmenu
 set wildmode=list:longest
-set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
+set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.xlsx
 let g:molokai_original = 1
 colorscheme molokai
 
