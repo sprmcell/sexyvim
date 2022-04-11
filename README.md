@@ -9,7 +9,7 @@ git clone https://github.com/sprmcell/sexyvim
 ### vim plugins
 
 ```sh
-cd sexyvim then cp -r .vim ~/`
+cd sexyvim && cp -r .vim ~/
 ```
 
 ### vimrc
