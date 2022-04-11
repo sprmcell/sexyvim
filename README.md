@@ -6,15 +6,17 @@ not a fork, just helps vim run and look sexy
 git clone https://github.com/sprmcell/sexyvim
 ```
 
-### [vim plugins]
+### vim plugins
 
-`cd sexyvim then cp -r .vim ~/`
+```sh
+cd sexyvim then cp -r .vim ~/`
+```
 
-### [vimrc]
+### vimrc
 
 `cd sexyvim` and finally `cp .vimrc ~/`
 
-### [vim dependacies]
+### vim dependacies
 
 `to get the :PlugInstall command:`
 ```sh
@@ -22,7 +24,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
-### [Setting up vim]
+### Setting up vim
 
 ```sh
 vim .vimrc
@@ -34,7 +36,7 @@ vim .vimrc
 
 this is because your root user doesnt have the files
 
-### [fix?]
+### fix?
 
 ```sh
 sudo cp -r .vim .vimrc /root
