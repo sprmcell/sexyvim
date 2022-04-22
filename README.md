@@ -17,14 +17,6 @@ cd sexyvim && cp -r .vim ~/
 
 `cd sexyvim` and finally `cp .vimrc ~/`
 
-### vim dependacies
-
-`to get the :PlugInstall command:`
-```sh
-curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-```
-
 ### Setting up vim
 
 ```sh
